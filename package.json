@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smgwilson/javascript-color-changer.git"
+  },
+  "author": "Sheri Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smgwilson/javascript-color-changer/issues"
+  },
+  "homepage": "https://github.com/smgwilson/javascript-color-changer#readme"
+}
