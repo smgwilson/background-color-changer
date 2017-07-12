@@ -17,13 +17,13 @@ exports.backgroundColorChanger = function() {
 
     // change the background color every second and run 10 times
     var timesRun = 0;
-    var usedColors = [];
+    var usedColors = {};
 
     function changeColor () {
         var myColor = setColor();
         // check for unlikely repeating colors
-        if (usedColors.indexOf(myColor) === -1 ) {
-            usedColors.push(myColor);
+        if (!usedColors.hasOwnProperty(myColor)) {
+            usedColors[myColor] = null;
             console.log(usedColors);
             document.body.style.backgroundColor = myColor;
             // Run 10 times
