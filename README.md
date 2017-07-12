@@ -7,4 +7,4 @@
 ## TODO
 -- Write tests
 
-[Code demo at https://jsfiddle.net/smgwilson/5ocpso9y/](https://jsfiddle.net/smgwilson/5ocpso9y/)
+[Code demo at https://jsfiddle.net/smgwilson/0pc0d0y0/](https://jsfiddle.net/smgwilson/0pc0d0y0/)
